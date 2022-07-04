@@ -1,0 +1,6 @@
+node_modules
+
+contracts/antiBot.sol
+contracts/Vesting.sol
+contracts/Token.sol
+contracts/libraries/Formula.sol
